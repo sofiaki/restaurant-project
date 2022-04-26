@@ -1,4 +1,5 @@
 import _ from "lodash";
+import "./styles.css";
 
 function component() {
   //Header div
