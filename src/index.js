@@ -4,8 +4,7 @@ import "./styles.css";
 function component() {
   //Header div
   const container = document.createElement("div");
-  container.style.backgroundImage = "url('../images/bistro.jpg')";
-  container.style.height = "100vh";
+  container.className = "container"
 
   //Restaurant's name
   const titleDiv = document.createElement("div");

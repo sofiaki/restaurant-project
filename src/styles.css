@@ -5,6 +5,10 @@ body{
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
 }
+.container{
+    background-image: url('./bistro.jpg');
+    height: 100vh;
+}
 .title-div{
     background-color: rgba(184, 32, 32, 0.884);
     width: 100%;
