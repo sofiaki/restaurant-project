@@ -48,6 +48,8 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 .tab-button:focus{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
     background-color: rgb(184, 32, 32);
     font-weight: bold;
 }
