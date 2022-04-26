@@ -21,7 +21,7 @@ body{
 }
 .tab-div{
     display: none;
-    height: 80vh;
+    height: 70vh;
     align-items: center;
     justify-content: center;
     background-color: rgba(184, 32, 32, 0.884);
